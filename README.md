@@ -1,2 +1,2 @@
-## DATA-SCIENCE-CLUB-LAB-1
-* Our first data science project
+## Our first data science project
+* The idea was to help us familiarize ourselves with basic data exploration
